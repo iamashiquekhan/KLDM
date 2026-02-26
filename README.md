@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="KL.png" alt="KL Download Manager Logo" width="120"/>
+  <img src="ic_large_icon_kldm.webp" alt="KL Download Manager Logo" width="120"/>
   <h1>KL Download Manager (KLDM)</h1>
   <p><strong>A production-grade, ultra-fast Android Download Manager, Video Downloader & Adblock Privacy Browser built with Jetpack Compose & Material 3.</strong></p>
 
@@ -112,3 +112,4 @@ Copyright © 2026 KestLogic Solutions. All rights reserved.
 <div align="center">
   <sub>Developed with ❤️ by KestLogic. Optimizing the way you download on Android.</sub>
 </div>
+
