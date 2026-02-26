@@ -41,11 +41,11 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screen.png" width="30%" alt="Downloads Screen">
+  <img src="IMG_KLDM_SS.webp" width="30%" alt="Downloads Notifications">
   &nbsp;&nbsp;
-  <img src="kldm_fig1.webp" width="30%" alt="Advanced Browser">
+  <img src="IMG_KLDM_BROWSER.webp" width="30%" alt="Advanced Browser">
   &nbsp;&nbsp;
-  <img src="kldm_fig2.webp" width="30%" alt="Site Settings">
+  <img src="IMG_KLDM_VIDEO DOWNLOADER.webp" width="30%" alt="Video Downloader">
 </div>
 
 *Note: Screenshots above feature the dynamic Material You theming and edge-to-edge UI spanning the entire system.*
@@ -112,4 +112,5 @@ Copyright © 2026 KestLogic Solutions. All rights reserved.
 <div align="center">
   <sub>Developed with ❤️ by KestLogic. Optimizing the way you download on Android.</sub>
 </div>
+
 
